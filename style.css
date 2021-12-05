@@ -1,0 +1,45 @@
+html {
+  font-size: 30px;
+  display: block;
+  border: 50px dotted;
+  border-style: none dotted none dotted;
+  border-color: white;
+  margin: 30px auto;
+  width: 50%
+}
+
+body{
+  background:#F5C6A5;
+  color: white;
+
+}
+h1 {
+  font-family: Anton, sans-serif;
+  font-size: 1em;
+  text-align: center;
+  text-transform: uppercase;
+  text-shadow: 2px 5px 10px #FF7777;
+  margin: 30px auto;
+  padding: 30px;
+  border: 3px solid white;
+  border-radius: 100px;
+  width: 20%;
+  background: linear-gradient(to right, #FF7777, #A2416B)
+
+
+}
+p {
+  font-size: 0.7em;
+  font-family: Bebas Neue, cursive;
+  text-align: center;
+}
+.gif {
+ display: block;
+ margin: 30px auto;
+ border: 3px solid #852747;
+ border-radius: 100px;
+ opacity: 1;
+}
+.neon {
+  box-shadow: 0 0 20px #A2416B;
+}
